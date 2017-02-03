@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "934755266065",
+    "firebase_url": "https://background-notification-test.firebaseio.com",
+    "project_id": "background-notification-test",
+    "storage_bucket": "background-notification-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934755266065:android:c658b61b54a0f80b",
+        "android_client_info": {
+          "package_name": "com.example.frsneves.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934755266065-1dshk67ebobe8e7b7tg14vruifkhne4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxZBttgDbfvYGqdSzuikglRvfTwzveQ8"
+        },
+        {
+          "current_key": "AIzaSyAhitOGi1XWd4aGVYDjqsaGuPYwzsJdk-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934755266065-1dshk67ebobe8e7b7tg14vruifkhne4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
